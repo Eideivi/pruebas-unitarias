@@ -82,9 +82,4 @@ python -m pytest test_sales_tax_updated.py -v
 
 ---
 
-## Entrega y Video de Demostración
-- Se han cargado las pruebas unitarias al repositorio de GitHub.
-- Se incluye esta documentación con la descripción del proyecto.
-- Se ha grabado un video mostrando la ejecución de las pruebas y su correcto funcionamiento.
-
 Este documento describe los pasos necesarios para ejecutar y validar el correcto funcionamiento del proyecto.
